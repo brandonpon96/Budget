@@ -1,0 +1,5 @@
+# Resources folder contains personal info such as transcripted bank statements
+/Resources
+
+# Compiled python code
+*.pyc
